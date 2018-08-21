@@ -22,7 +22,7 @@ metadata {
 		// none
 
 		// reply messages
-		reply "'on','delay 2000','off'": "switch:off"
+		reply "'on','delay 500','off'": "switch:off"
 	}
 
 	// UI tile definitions
