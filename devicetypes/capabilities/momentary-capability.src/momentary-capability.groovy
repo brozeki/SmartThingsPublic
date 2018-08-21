@@ -42,7 +42,7 @@ def parse(String description) {
 }
 
 def push() {
-	['on','delay 2000','off']
+	['on','delay 500','off']
 }
 
 def off() {
